@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: sVf18eFvdNegAqmCO14O52bBrL4=
+
+Name: kernel/busybox
+SHA1-Digest: lUsOGUy5u7GD3yRQqxIyL/1ht34=
+
+Name: system/modules/auth_rpcgss.ko
+SHA1-Digest: Vszao51jYkvI6vfwGpvmAFMDm68=
+
+Name: system/modules/tun.ko
+SHA1-Digest: pqGdIfvPQGpZ96VmLtskKqbX86Q=
+
+Name: system/modules/ansi_cprng.ko
+SHA1-Digest: Fu+1h5/XXPOhjHra2RE7Bm/Rgdc=
+
+Name: system/modules/ntfs.ko
+SHA1-Digest: 9jpXPYExQZ1Ox5bj2IUkYwiULCA=
+
+Name: system/modules/nfsd.ko
+SHA1-Digest: Sfp3SsJf9YRu7z/ekGoIxi7y+nQ=
+
+Name: kernel/unpackbootimg
+SHA1-Digest: /lKQb7Ey6qOqn2mpKyC+eDUSsSo=
+
+Name: system/etc/init.d/placeholder
+SHA1-Digest: QAOuPjRljS+Fucv/YhFDxdEX+Ds=
+
+Name: system/modules/rpmsg_client_sample.ko
+SHA1-Digest: JeqUmqOpz6BvoTC/SFhG/DtjaLQ=
+
+Name: system/modules/sunrpc.ko
+SHA1-Digest: AaDtCy2ZYHJaDo7NXyjqa1gWu6s=
+
+Name: system/modules/lockd.ko
+SHA1-Digest: JuiCV2phjhtWqMc/XRhmCUqJbpY=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: LHmSY0vL7Apc03ExL3GQfli/j70=
+
+Name: system/modules/logger.ko
+SHA1-Digest: XyOgf7h2hsKm2+N0xnXV2SV8O04=
+
+Name: kernel/zImage
+SHA1-Digest: wZ+wMU+SZ3UJSyKQPsaVFOIIudI=
+
+Name: kernel/mkbootimg
+SHA1-Digest: bps6d+2zkMzNRKooOgq8edbFY0E=
+
+Name: kernel/unpack_add_init.sh
+SHA1-Digest: TOtRZq8eoO+Gfrjqwuc4roL2s+0=
+
+Name: system/modules/nfs.ko
+SHA1-Digest: fCBthg88cw0OPf9f34YqWJgWeug=
+
+Name: system/etc/init.d/99nexusinit
+SHA1-Digest: OVtcWST0qGfkqW+xlWPFdC7B5xc=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest: rumxoiawDNUJpfFqE8GGBV4QZBg=
+
+Name: system/modules/exportfs.ko
+SHA1-Digest: /LZqBSiUE0X1RHg3BbN2jfwfkkI=
+
+Name: system/modules/scsi_wait_scan.ko
+SHA1-Digest: h+GHL0ETD8d5sVEb1KOP8Qb+F1I=
+
+Name: kernel/mkbootimg.sh
+SHA1-Digest: 8Eq6wjWmodp7ioZi4NgkM6JKCUY=
+
+Name: system/modules/rpmsg_server_sample.ko
+SHA1-Digest: qJRA0YtClbJ8Nm9dD8xuf88FqSY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CCeK03El/mTt+pqw6TQ1o7tXF34=
+
+Name: system/modules/md4.ko
+SHA1-Digest: HblQm1WDLL1z1FJt+bLTbpSqhNQ=
+
+Name: cleaner/cleaner.sh
+SHA1-Digest: zYl549/5E1xzUa/7q/ns1nznTLE=
+
+Name: system/modules/cifs.ko
+SHA1-Digest: YcD/vHTLCilQe+uUvXu7Zb5mEFQ=
+
